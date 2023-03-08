@@ -14,7 +14,7 @@
 
 
 #### 🟢 [StorageComb]
-| <a href="systemcomb.de/storagecomb/">📢 Bot Testen </a> |
+| <a href="https://systemcomb.de/storagecomb">📢 Cloud </a> |
 
 <br>
 
