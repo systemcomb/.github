@@ -1,7 +1,7 @@
 ## 👋 Hi, we are SystemComb
 <br>
 
-## 🎉 What new is...
+## 🎉 What's new...
 - StorageComb
 - WebComb
 
