@@ -3,6 +3,7 @@
 
 ## 🎉 What new is...
 - StorageComb
+- WebComb
 
 
 ---
